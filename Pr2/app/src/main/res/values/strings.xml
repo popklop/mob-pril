@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My app</string>
+    <string name="greetings">HI!</string>
+    <string name="secActButton">Press to open second Activity</string>
+    <string name="openbrowserbut">Press to open Browser</string>
+</resources>

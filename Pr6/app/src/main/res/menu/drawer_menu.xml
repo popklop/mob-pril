@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/pudge"
+        android:title="Pudge"/>
+    <item
+        android:id="@+id/pudge2"
+        android:title="Pudge2"/>
+    <item
+        android:id="@+id/furion"
+        android:title="Furion"/>
+    <item
+        android:id="@+id/next"
+        android:title="Go next activity proigrali"/>
+</menu>

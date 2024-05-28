@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My app</string>
+    <string name="greetings"> <span lang = "ru-RU"> Привет</span>!</string>
+    <string name="secActButton"> <span lang ="ru-RU">Нажимте чтобы открыть вторую активность</span></string>
+    <string name="openbrowserbut"><span lang = "ru-RU">Нажмите чтобы открыть браузер</span></string>
+</resources>

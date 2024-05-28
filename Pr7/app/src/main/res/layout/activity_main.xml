@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="247dp"
+        android:layout_height="101dp"
+        android:layout_marginStart="80dp"
+        android:layout_marginTop="60dp"
+        android:text="Остановить музыку"
+        android:textSize="32dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="316dp"
+        android:layout_height="105dp"
+        android:layout_marginStart="44dp"
+        android:layout_marginTop="68dp"
+        android:text="TimePickerDialog"
+        android:textSize="32dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button" />
+
+    <Button
+        android:id="@+id/button3"
+        android:textSize="32dp"
+        android:layout_width="330dp"
+        android:layout_height="102dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="64dp"
+        android:text="DatePickerDIalog"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button2" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="names">
+        <item>Elmar </item>
+        <item>Lenya</item>
+        <item>Misha</item>
+        <item>Kolya</item>
+        <item>Gleb </item>
+        <item>Ilya</item>
+        <item>Fariz</item>>
+    </string-array>
+</resources>

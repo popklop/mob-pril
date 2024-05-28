@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Кольщик наколи мне купола
+\nРядом чудотворный крест с иконами
+\nЧтоб играли там колокола
+\nС переливами и перезвонами
+\nНаколи мне домик у ручья
+\nПусть течёт по-воле струйкой тонкою
+\nЧтобы от него портной судья
+\nНе отгородил меня решеткою
+\nНарисуй алеющий закат
+\nРозу за колючей ржавой проволкой
+\nСтрочку:Мама, я не виноват!
+\nНаколи, и пусть стереть попробуют
+\nЕсли места хватит - нарисуй
+\nЛодку с парусами, ветром полными
+\nУплыву, волки, и вот вам...
+\nЧтобы навсегда меня запомнили
+\nНе осуждай меня, мама
+\nЯ ведь только тем и жил, что знал - ты меня ждёшь
+\nЯ знаю, ты плачешь вечерами
+\nИ видишь сны, где я совсем ещё маленький
+\nПодкрадываюсь к тебе и закрываю твои глаза ладошками
+\nТы нарочно говоришь: Отец? Татьянка?
+\nЯ смеюсь: Нет-нет, не угадала!
+\nОтцу с Танюхой привет
+\nДеньги в конверте не шли, - всё вынут
+\nНо я ж назло им вернусь
+\nПотому что ты меня ждёшь
+\nИ легло на душу, как покой.
+\nВстретить мать - одно мое желание.
+\nКрест коли, чтоб я забрал с собой
+\nИзбавление, но не покаяние
+\nКрест коли, чтоб я забрал с собой
+\nИзбавление, но не покаяние"
+            android:textSize="32dp"
+            android:gravity="center"
+            android:layout_gravity="center"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:hint="Vvedite text"
+            ></EditText>
+    </LinearLayout>
+</ScrollView>

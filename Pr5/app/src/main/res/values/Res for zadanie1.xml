@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="electronics_type">
+        <item> Телефоны и планшеты </item>
+        <item> Ноутбуки</item>
+        <item> Телевизоры </item>
+        <item> Аксесуары </item>
+        <item> Комплектующие для ПК </item>
+        <item> Офисная текхника </item>
+        <item> Бытовая техника </item>
+    </array>
+    <array name="nout_types">
+        <item>Игровые ноутбуки</item>
+        <item>Ультрабуки</item>
+        <item>Бюджетные ноутбуки</item>
+        <item>Малогабаритные ноутбуки</item>
+        <item>Большие ноутбуки</item>
+    </array>
+    <array name="tp_types">
+        <item>Телефоны на Android</item>
+        <item>Телефоны Apple</item>
+        <item> Планшеты на Android</item>
+        <item> Планшеты Apple </item>
+        <item> Телефоны на иной ОС </item>
+        <item> Планшеты на иной OC </item>
+    </array>
+
+</resources>
